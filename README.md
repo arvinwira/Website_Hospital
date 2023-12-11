@@ -1,5 +1,5 @@
 # ABC Hospital Web Application
-Aplikasi web ABC Hospital merupakan solusi efisien dan akurat dalam pengelolaan data ruang rawat inap, jadwal janji temu, dan informasi dokter. Dengan menggunakan teknologi HTML, CSS, JavaScript, PHP, dan MySQL, aplikasi ini memberikan pengalaman pengguna yang baik melalui desain antarmuka yang intuitif.
+Saya dan rekan kelompok saya mengembangkan sebuah Aplikasi web sederhana bernama ABC Hospital yang merupakan solusi efisien dan akurat dalam pengelolaan data ruang rawat inap, jadwal janji temu, dan informasi dokter. Dengan menggunakan teknologi HTML, CSS, JavaScript, PHP, dan MySQL, aplikasi ini memberikan pengalaman pengguna yang baik melalui desain antarmuka yang intuitif.
 
 Fitur Utama
 1. Pengelolaan Data Ruang Rawat Inap
